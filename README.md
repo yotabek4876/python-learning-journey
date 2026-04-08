@@ -14,3 +14,4 @@ Student grading system:
 
 ## 📅 Progress
 Day 1: args and kwargs ✔️
+Day 2: OOP, inheritance, dunder methods, modules ✔️
